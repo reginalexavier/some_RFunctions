@@ -11,10 +11,10 @@ Most of the codes are copies of the katas I've completed on [codewars.com](https
 
 # R:
 
-* [Count IP Addresses]()
-* [Get_the_Middle_Character]
-* [Highest_Scoring_Word]
-* [Statistics_for_an_Athletic_Association]
-* [Sum_of_Cubes]
-* [josephus_survivor](https://github.com/tredgi/some_RFunctions/blob/master/functions/josephus_survivor.R)
+* [Count IP Addresses](functions/Count_IP_Addresses.R)
+* [Get the Middle Character](functions/Get_the_Middle_Character.R)
+* [Highest Scoring Word](functions/Highest_Scoring_Word.R)
+* [Statistics for an Athletic Association](functions/Statistics_for_an_Athletic_Association.R)
+* [Sum of Cubes](functions/Sum_of_Cubes.R)
+* [josephus_survivor](functions/josephus_survivor.R)
 
