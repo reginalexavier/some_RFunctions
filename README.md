@@ -10,7 +10,7 @@ Most of the codes are copies of the katas I've completed on [codewars.com](https
 ## List of Challenges
 
 # R:
-* [josephus_survivor](functions/josephus_survivor.R)
+* [Josephus Survivor](functions/josephus_survivor.R)
 * [Count IP Addresses](functions/Count_IP_Addresses.R)
 * [Highest Scoring Word](functions/Highest_Scoring_Word.R)
 * [Get the Middle Character](functions/Get_the_Middle_Character.R)
