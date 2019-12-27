@@ -11,5 +11,10 @@ Most of the codes are copies of the katas I've completed on [codewars.com](https
 
 # R:
 
-*
+* [Count IP Addresses]()
+* [Get_the_Middle_Character]
+* [Highest_Scoring_Word]
+* [Statistics_for_an_Athletic_Association]
+* [Sum_of_Cubes]
+* [josephus_survivor](https://github.com/tredgi/some_RFunctions/blob/master/functions/josephus_survivor.R)
 
